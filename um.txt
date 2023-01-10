@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 linha1
-=======
-teste
->>>>>>> 0763cca27863b845211fcd7c36e6140c24e2a0af
